@@ -9,41 +9,41 @@ The project demonstrates practical usage of DSA concepts, game logic, file handl
 
 🎮 Game Features
 
-Classic Pac-Man gameplay
+-Classic Pac-Man gameplay
 
-Player movement and collision detection
+-Player movement and collision detection
 
-Ghost AI with chase behavior
+-Ghost AI with chase behavior
 
-Score tracking
+-Score tracking
 
-Lives system
+-Lives system
 
-Sound effects and background music
+-Sound effects and background music
 
-Graphical lobby and score view
+-Graphical lobby and score view
 
-Keyboard-based controls
+-Keyboard-based controls
 
 🛠️ Technologies & Libraries Used
 
-Language: C++
+-Language: C++
 
-Graphics & Audio: SFML (Graphics & Audio modules)
+-Graphics & Audio: SFML (Graphics & Audio modules)
 
-Concepts Used:
+-Concepts Used:
 
-Data Structures
+-Data Structures
 
-Object-Oriented Programming (OOP)
+-Object-Oriented Programming (OOP)
 
-File Handling
+-File Handling
 
-Game Loop & Event Handling
+-Game Loop & Event Handling
 
-Arrays and Algorithms
+-Arrays and Algorithms
 
-#How to Run the Project
+How to Run the Project
 Download the ZIP file
 
 Extract it
